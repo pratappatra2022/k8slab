@@ -16,7 +16,7 @@ git clone https://github.com/pratappattra2220/k8slab.git
 ## Now provision three virtual machines with following commands:
 
 ```
-cd docker-kubernetes-ericsson-20-Dec-2021/00-Vagrant-Setup/
+cd ks8lab/00-Vagrant-Setup/
 vagrant.exe up
 
 
