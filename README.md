@@ -10,7 +10,7 @@ k8slab
 ## First clone this repository on your windows machine.
 
 ```
-git clone https://github.com/pratappattra2220/docker-kubernetes-ericsson-20-Dec-2021.git
+git clone https://github.com/pratappattra2220/k8slab.git
 ``` 
 
 ## Now provision three virtual machines with following commands:
